@@ -2,4 +2,4 @@
 
 Test Driven Development exercise following the odin project
 
-[TOP](www.theodinproject.com)
+[TOP](https://www.theodinproject.com)
